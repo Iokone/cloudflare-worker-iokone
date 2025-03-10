@@ -1,10 +1,10 @@
 name = "cache-homepage"
 type = "javascript"
-account_id = "TU_ACCOUNT_ID"
+account_id = "f2497a8b2e32517696337623763577f7"
 workers_dev = true
 route = "https://iokone.com/*"
 zone_id = "59f5e76d1dbadde87d0dc9bca32c0760"
 
 [env.production]
 route = "https://iokone.com/*"
-zone_id = "f2497a8b2e32517696337623763577f7"
+zone_id = "59f5e76d1dbadde87d0dc9bca32c0760"
